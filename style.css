@@ -1,0 +1,484 @@
+
+.section-1 {
+background-color: purple;
+padding-top: 15px;
+padding-bottom: 15px;
+margin-top: 15px;
+}
+
+.nav-bar-1 {
+
+background-color: transparent;
+justify-content: left;
+padding-top: 1px;
+padding-bottom: 1px;
+margin-inline: 3px;
+display: inline
+;
+
+}
+.menu-button {
+background-color: transparent;
+color: white;
+cursor: context-menu;
+border: 0;
+font-size: 16px;
+}
+ .header {
+  color: #ffff;
+   align-items: right;
+ }
+ .center {
+width: 400px;
+background-color: #ffff;
+color: purple;
+border:  solid ;
+padding: 10px 10px ;
+margin: auto;
+text-align: center;
+ }
+
+ .right {
+  right: 0px;
+  position: relative;
+  margin-left: 271px;
+ }
+ .section-2 {
+background-color: rgb(218, 204, 204);
+padding-top: 15px;
+padding-bottom: 15px;
+margin-top: -2px;
+margin-bottom: -10px;
+ }
+ .center-2 {
+  width: 400px;
+  padding: 10px 10px;
+  margin: auto;
+  align-items: center;
+  display: inline;
+  margin-inline: 300px;
+  
+
+   }
+   .section-3 {
+    background-color: rgb(218, 204, 204);
+   padding: 10px 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   }
+   .center-3 {
+   width: 400px ;
+   padding-top: 10px 10px;
+   margin: auto;
+   align-items: center;
+   display: flex;
+   }
+   .center-4 {
+    width:400;
+    padding: 10px 10px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+   }
+   .div {
+    margin-bottom: 50px;
+   }
+   .center-5 {
+   width: 400;
+   padding: 10px 10px;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   }
+   .center-6 {
+    width: 250px;
+   background-color: purple;
+   color: #ffff;
+   border: solid;
+   padding: 1px 1px;
+   margin: auto;
+   border-radius: 5px;
+   
+   
+   }
+   .center-7 {
+   width: 200px;
+   background-color: #ffff;
+   color: purple;
+   border: 1px solid;
+   margin: auto;
+   margin-left: 10px;
+   }
+   .center-8 {
+     
+     display: inline-flex;
+     padding: 10px 10px;
+     margin-bottom: 20px;
+     width: 400;
+     margin-left: 30px;
+   
+   }
+
+   .center-9 {
+    width: 400;
+    padding: 10px 10px;
+    margin: auto;
+   display: flex;
+    border-radius: 10px;
+   }
+   .section-5 {
+   background-color: blanchedalmond;
+    padding: 10px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+   }
+   .features-list {
+    background-color: #ffff;
+    border: 1px solid blueviolet;
+    padding: 20px 20px;
+    width: 240;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-inline: 10px;
+    background-image: url('https://slack.com/events/tips-and-tricks-to-boost-productivity');
+    
+   }
+   .center-10 {
+   
+   padding: 10px 10px;
+   margin: auto;
+   display: inline-flex;
+   background-image: url('https://slack.com/events/tips-and-tricks-to-boost-productivity');
+   margin-top: 25px;
+   margin-bottom: 30px;
+   }
+   .features-list, :hover {
+   background-color: #f0f0f0;
+   transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+   }
+
+
+   .section-6 {
+   background-color: purple;
+   padding: 10px 10px;
+   padding-bottom: 55px;
+   margin-top: -10px;
+   margin-bottom: 5px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius: 30px;
+   border-left: 20px;
+   border-right: 20px;
+   border-radius: 20px;
+   }
+   .link-1 {
+    width: 150;
+    background-color: white;
+    color: blueviolet;
+    margin: auto;
+    
+    padding: 3px 3px;
+    border: 1px solid white;
+    text-align: center;
+    margin-inline-end: 0%;
+    }
+    .a:link :active, .no-text {
+   text-decoration: none;
+    }
+    .link-2 {
+      width: 150;
+      color: white;
+      margin: auto;
+      margin-left: 6px;
+      padding: 3px 3px;
+      border: 1px solid white;
+      text-align: center;
+    }
+    .center-11 {
+   
+   margin: auto;
+   padding: 10px 10px;
+   display: flex;
+    align-items: flex-end;
+    margin-left: -4px;
+    margin-right: -4px;
+    }
+    .section-7 {
+      background-color: white;
+      padding: 10px 10px;
+      margin-top: -3px;
+      margin-bottom: 5px;
+    }
+    .list-1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 30px 30px;
+  margin-left: 5px;
+   
+      font-size: 15px;  
+      
+      
+    }
+    .list-2 {
+      margin-top: 50px;
+      margin-bottom: 50px;
+      padding: 30px 30px;
+      margin-left: 5px;
+      font-size: 15px;   
+       
+        }
+        .list-3 {
+          margin-top: 50px;
+          margin-bottom: 50px;
+          padding: 30px 30px;
+      font-size: 15px;  
+      margin-left: 5px;
+            }
+            .list-4 {
+              margin-top: 50px;
+              margin-bottom: 50px;
+              padding: 30px 30px;
+              margin-left: 5px;
+      
+      font-size: 15px;   
+       
+                }
+                .list-5 {
+                  margin-top: 50px;
+                  margin-bottom: 50px;
+                  padding: 30px 30px;
+                  font-size: 15px; 
+                  margin-left: 5px;
+                    }
+    
+
+    ul {
+      list-style: none; /* Remove the default list bullets */
+      padding: 0; /* Remove default padding */
+      margin: 0; /* Remove default margin */
+  }
+ 
+
+  
+
+  .center-12 {
+ width: 800;
+ padding: 10px 10px;
+ margin: auto;
+ display: flex;
+ 
+  }
+
+  .ui-2 {
+    list-style: none;/* Remove the default list bullets */
+    padding: 0; /* Remove default padding */
+    margin: 0;  /* Remove default margin */
+
+  }
+
+  .center-13 {
+  width: 600px;
+  padding: 15px 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ 
+  }
+  .ui-2 {
+    width: 400;
+    display: flex;
+   margin-inline: 5px;
+  }
+
+   .toto {
+    text-indent: 5px;
+  }
+  .li .jj {
+
+  list-style-image: url("bling.jpg");
+  }
+
+  .center-14 {
+    margin-inline: 9px;
+    padding: 10px 10px;
+    display: inline-flex;
+    margin-left: auto;
+
+  }
+
+  .dropbtn {
+ 
+ color: purple;
+ padding: 16px;
+ font-size: 16px;
+ border: none;
+ cursor: pointer;
+
+  }
+
+  .dropdown {
+    position:relative;
+    display: inline;
+    margin-inline: 5px;
+  }
+  .dropdown-content {
+  display: none;
+  position: none;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  dropdown-content a:hover {background-color: #f1f1f1}
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+
+.rule {
+  width: 120;
+  color: white;
+  background-color: white;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin: auto;
+  border: 1px solid white;
+  text-align: center;
+  align-items: center;
+ border-radius: 1px;
+ margin-inline: 50px;
+margin-left: 90px;
+}
+.balance {
+width: 120;
+background-color: purple;
+padding-top: 1px;
+padding-bottom: 1px;
+text-align: center;
+margin:auto;
+border: 1px solid white;
+margin-top: 15px;
+align-items: center;
+border-radius: 1px;
+margin-inline: 10px;
+}
+
+.dropdown-1 {
+position: relative;
+display: inline-block;
+}
+ .search {
+margin-bottom: -2px;
+margin-left: 10px;
+ }
+
+ .center-15 {
+  width: 400;
+  margin: auto;
+  padding: 15px 15px;
+  display: flex;
+
+ }
+ .center-16 {
+  width: auto;
+  margin: auto;
+  padding: 15px 15px;
+  display: inline-flex;
+  margin-bottom: 70px;
+ }
+
+ .center-17 {
+ width: auto; 
+ margin: auto;
+ padding: 10px 10px;
+ display: block;
+ margin-left: 310px;
+ }
+ 
+ .center-18 {
+ width: auto;
+ margin: auto;
+ padding: 15px 15px;
+ display: inline-flex;
+ margin-inline: 90px;
+ margin-bottom: 40px;
+ 
+ }
+ 
+ 
+ .center-19 {
+ width: auto;
+ margin: auto;
+ padding: 10px 10px;
+ display: block;
+ margin-right: 300px;
+ }
+ .center-20 {
+ width: auto;
+ margin: auto;
+ padding: 15px 15px;
+ display: inline-flex;
+ margin-bottom: 15px;
+ margin-right: 100px;
+ }
+ .center-21 {
+ width: auto;
+ margin: auto;
+ padding: 10px 10px;
+ display: block;
+ margin-left: 200px;
+
+ }
+ .center-22 {
+  width: auto;
+  margin: auto;
+  padding: 15px 15px;
+  align-items: center;
+  margin-left: 315px;
+  display: inline-flex;
+ }
+
+ .center-23 {
+ width: auto;
+ margin: auto;
+ padding: 15px 15px;
+ display: inline-flex;
+
+ }
+ .center-24 {
+ width: auto;
+ margin: auto;
+ padding: 15px 15px;
+ display: inline-flex;
+
+
+ }
+ .center-25 {
+  width: auto;
+  margin: auto;
+  padding: 10px 10px;
+  display: block;
+  margin-left: 200px;
+ }
+ 
+.align-items {
+margin-bottom: -20px;
+
+}
+.Center-26 {
+width: auto;
+margin: auto;
+padding: 10px 10px;
+display: inline-flex;
+}
